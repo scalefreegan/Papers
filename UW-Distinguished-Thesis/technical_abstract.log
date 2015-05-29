@@ -1,0 +1,1172 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.19)  26 MAY 2015 15:12
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**technical_abstract.tex
+(./technical_abstract.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ansinew.def
+File: ansinew.def 2014/04/30 v1.2b Input encoding file
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count101
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count102
+\c@Blindtext=\count103
+\c@blind@countparstart=\count104
+\blind@countxx=\count105
+\blindtext@numBlindtext=\count106
+\blind@countyy=\count107
+\c@blindlist=\count108
+\c@blindlistlevel=\count109
+\c@blindlist@level=\count110
+\blind@listitem=\count111
+\c@blind@listcount=\count112
+\c@blind@levelcount=\count113
+\blind@mathformula=\count114
+\blind@Mathformula=\count115
+\c@blind@randomcount=\count116
+\c@blind@randommax=\count117
+\c@blind@pangramcount=\count118
+\c@blind@pangrammax=\count119
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count120
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count121
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count122
+\c@subtable=\count123
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks30
+\MT@count=\count124
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen122
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count125
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count126
+\Gm@cntv=\count127
+\c@Gm@tempcnt=\count128
+\Gm@bindingoffset=\dimen123
+\Gm@wd@mp=\dimen124
+\Gm@odd@mp=\dimen125
+\Gm@even@mp=\dimen126
+\Gm@layoutwidth=\dimen127
+\Gm@layoutheight=\dimen128
+\Gm@layouthoffset=\dimen129
+\Gm@layoutvoffset=\dimen130
+\Gm@dimlist=\toks31
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
+\c@tracingmulticols=\count129
+\mult@box=\box30
+\multicol@leftmargin=\dimen131
+\c@unbalance=\count130
+\c@collectmore=\count131
+\doublecol@number=\count132
+\multicoltolerance=\count133
+\multicolpretolerance=\count134
+\full@width=\dimen132
+\page@free=\dimen133
+\premulticols=\dimen134
+\postmulticols=\dimen135
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen136
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count135
+\c@finalcolumnbadness=\count136
+\last@try=\dimen137
+\multicolovershoot=\dimen138
+\multicolundershoot=\dimen139
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count137
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count138
+\@cmidlb=\count139
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count140
+\@lastruleclass=\count141
+\@thisrulewidth=\dimen152
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count142
+\Hy@pagecounter=\count143
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count144
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count145
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen154
+\Fld@menulength=\count146
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count147
+\c@Item=\count148
+\c@Hfootnote=\count149
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count150
+\c@bookmark@seq@number=\count151
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
+\c@DefaultLines=\count152
+\DefaultFindent=\dimen157
+\DefaultNindent=\dimen158
+\DefaultSlope=\dimen159
+\L@lbox=\box56
+\L@tbox=\box57
+\c@L@lines=\count153
+\L@Pindent=\dimen160
+\L@Findent=\dimen161
+\L@Nindent=\dimen162
+\L@lraise=\dimen163
+\L@first=\dimen164
+\L@next=\dimen165
+\L@slope=\dimen166
+\L@height=\dimen167
+\LettrineWidth=\dimen168
+
+Loading lettrine.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip53
+\plpartopsep=\skip54
+\plitemsep=\skip55
+\plparsep=\skip56
+\pl@lab=\toks32
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip57
+\absleftindent=\skip58
+\absrightindent=\skip59
+\absparindent=\skip60
+\absparsep=\skip61
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box58
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks33
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/block.tss
+File: block.tss 2011/12/15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip64
+\f@ncyO@elh=\skip65
+\f@ncyO@erh=\skip66
+\f@ncyO@olh=\skip67
+\f@ncyO@orh=\skip68
+\f@ncyO@elf=\skip69
+\f@ncyO@erf=\skip70
+\f@ncyO@olf=\skip71
+\f@ncyO@orf=\skip72
+)
+
+LaTeX Warning: Unused global option(s):
+    [paper=letter,fontsize=12pt].
+
+(./technical_abstract.aux)
+\openout1 = `technical_abstract.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 90.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pplx.fd
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count154
+\scratchdimen=\dimen174
+\scratchbox=\box59
+\nofMPsegments=\count155
+\nofMParguments=\count156
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count157
+\MPscratchDim=\dimen175
+\MPnumerator=\count158
+\makeMPintoPDFobject=\count159
+\everyMPtoPDFconversion=\toks35
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 90.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(91.04881pt, 608.5238pt, 95.39737pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=608.5238pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-18.22118pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=20.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 90.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count160
+)
+LaTeX Info: Redefining \ref on input line 90.
+LaTeX Info: Redefining \pageref on input line 90.
+LaTeX Info: Redefining \nameref on input line 90.
+
+(./technical_abstract.out) (./technical_abstract.out)
+\@outlinefile=\write3
+\openout3 = `technical_abstract.out'.
+
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 92.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 92.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 92.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 92.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 92.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 92.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 92.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 92.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 92.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 92.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 92.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 92.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 94--95
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 96.
+
+LaTeX Warning: Citation `watson_molecular_1953' on page 1 undefined on input li
+ne 102.
+
+
+LaTeX Warning: Citation `smith_fluorescence_1986' on page 1 undefined on input 
+line 102.
+
+
+LaTeX Warning: Citation `check_hayden_technology:_2014' on page 1 undefined on 
+input line 102.
+
+
+LaTeX Warning: Citation `manolio_finding_2009' on page 1 undefined on input lin
+e 102.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 103.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 103.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 103.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 103.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 103.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 103.
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 106.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 106.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 106.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 106.
+
+[2] [3]
+
+LaTeX Warning: Citation `baliga_is_2000' on page 4 undefined on input line 118.
+
+
+
+LaTeX Warning: Citation `facciotti_general_2007' on page 4 undefined on input l
+ine 118.
+
+
+LaTeX Warning: Citation `turkarslan_niche_2011' on page 4 undefined on input li
+ne 118.
+
+[4]
+
+LaTeX Warning: Citation `bailey_fitting_1994' on page 5 undefined on input line
+ 124.
+
+
+LaTeX Warning: Citation `bailey_methods_1998' on page 5 undefined on input line
+ 124.
+
+
+LaTeX Warning: Citation `mahony_stamp:_2007' on page 5 undefined on input line 
+124.
+
+
+LaTeX Warning: Citation `barabasi_network_2004' on page 5 undefined on input li
+ne 128.
+
+[5]
+
+LaTeX Warning: Citation `aiba_evidence_1989' on page 6 undefined on input line 
+130.
+
+
+LaTeX Warning: Citation `laub_specificity_2007' on page 6 undefined on input li
+ne 130.
+
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 134.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+LaTeX Warning: Citation `reiss_integrated_2006' on page 6 undefined on input li
+ne 134.
+
+
+LaTeX Warning: Citation `bonneau_inferelator:_2006' on page 6 undefined on inpu
+t line 134.
+
+
+LaTeX Warning: Citation `bonneau_predictive_2007' on page 6 undefined on input 
+line 134.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+[6]
+
+LaTeX Warning: Citation `reiss_integrated_2006' on page 7 undefined on input li
+ne 136.
+
+
+LaTeX Warning: Citation `bonneau_predictive_2007' on page 7 undefined on input 
+line 138.
+
+
+LaTeX Warning: Citation `yoon_systems_2013' on page 7 undefined on input line 1
+38.
+
+[7]
+
+LaTeX Warning: Reference `chap:2' on page 8 undefined on input line 142.
+
+
+LaTeX Warning: Reference `tab:stats' on page 8 undefined on input line 142.
+
+
+LaTeX Warning: Citation `bonneau_predictive_2007' on page 8 undefined on input 
+line 146.
+
+
+LaTeX Warning: Citation `bonneau_inferelator:_2006' on page 8 undefined on inpu
+t line 146.
+
+
+LaTeX Warning: Citation `reiss_integrated_2006' on page 8 undefined on input li
+ne 146.
+
+
+LaTeX Warning: Reference `eq:elnet3' on page 8 undefined on input line 146.
+
+[8]
+
+LaTeX Warning: Citation `breiman_bagging_1996' on page 9 undefined on input lin
+e 150.
+
+
+LaTeX Warning: Citation `bhlmann_analyzing_2002' on page 9 undefined on input l
+ine 150.
+
+
+LaTeX Warning: Citation `krogh_statistical_1997' on page 9 undefined on input l
+ine 150.
+
+[9]
+
+LaTeX Warning: Reference `fig:gre_clustering' on page 10 undefined on input lin
+e 154.
+
+
+LaTeX Warning: Citation `baliga_genomic_2001' on page 10 undefined on input lin
+e 154.
+
+
+LaTeX Warning: Citation `breiman_bagging_1996' on page 10 undefined on input li
+ne 156.
+
+
+LaTeX Warning: Citation `marbach_wisdom_2012' on page 10 undefined on input lin
+e 156.
+
+
+LaTeX Warning: Citation `joshi_module_2009' on page 10 undefined on input line 
+156.
+
+
+LaTeX Warning: Citation `van_dongen_using_2012' on page 10 undefined on input l
+ine 158.
+
+
+LaTeX Warning: Citation `bailey_methods_1998' on page 10 undefined on input lin
+e 158.
+
+
+LaTeX Warning: Reference `section:gres' on page 10 undefined on input line 158.
+
+
+
+LaTeX Warning: Citation `serrano_extracting_2009' on page 10 undefined on input
+ line 158.
+
+
+LaTeX Warning: Citation `ahn_link_2010' on page 10 undefined on input line 158.
+
+
+
+LaTeX Warning: Reference `fig:workflow' on page 10 undefined on input line 158.
+
+
+[10]
+
+LaTeX Warning: Reference `fig:corem_stats' on page 11 undefined on input line 1
+62.
+
+[11]
+
+LaTeX Warning: Citation `serrano_extracting_2009' on page 12 undefined on input
+ line 179.
+
+
+LaTeX Warning: Citation `ahn_link_2010' on page 12 undefined on input line 189.
+
+
+
+LaTeX Warning: Citation `kalinka_linkcomm:_2011' on page 12 undefined on input 
+line 189.
+
+[12]
+
+LaTeX Warning: Reference `fig:corem_density' on page 13 undefined on input line
+ 209.
+
+
+LaTeX Warning: Reference `tab:stats' on page 13 undefined on input line 211.
+
+
+LaTeX Warning: Reference `fig:corem_density' on page 13 undefined on input line
+ 211.
+
+[13]
+
+LaTeX Warning: Citation `gama-castro_regulondb_2011' on page 14 undefined on in
+put line 216.
+
+
+LaTeX Warning: Reference `chap:2' on page 14 undefined on input line 216.
+
+
+LaTeX Warning: Reference `fig:pr_curves' on page 14 undefined on input line 216
+.
+
+
+LaTeX Warning: Reference `fig:cumulative_auprs' on page 14 undefined on input l
+ine 216.
+
+
+LaTeX Warning: Reference `fig:argR_purR_networks' on page 14 undefined on input
+ line 216.
+
+
+LaTeX Warning: Reference `chap:2' on page 14 undefined on input line 216.
+
+
+LaTeX Warning: Citation `faith_large-scale_2007' on page 14 undefined on input 
+line 216.
+
+
+LaTeX Warning: Citation `marbach_wisdom_2012' on page 14 undefined on input lin
+e 216.
+
+
+LaTeX Warning: Citation `koide_prevalence_2009' on page 14 undefined on input l
+ine 220.
+
+
+LaTeX Warning: Reference `fig:nirH' on page 14 undefined on input line 220.
+
+
+LaTeX Warning: Reference `fig:sdh' on page 14 undefined on input line 220.
+
+
+LaTeX Warning: Reference `fig:vng2211h' on page 14 undefined on input line 220.
+
+
+
+LaTeX Warning: Reference `chap:2' on page 14 undefined on input line 220.
+
+
+LaTeX Warning: Citation `facciotti_general_2007' on page 14 undefined on input 
+line 220.
+
+[14]
+
+LaTeX Warning: Citation `higgins_binding_1990' on page 15 undefined on input li
+ne 222.
+
+
+LaTeX Warning: Citation `letoffe_housekeeping_2006' on page 15 undefined on inp
+ut line 222.
+
+[15]
+
+LaTeX Warning: Reference `fig:dpp_networks' on page 16 undefined on input line 
+224.
+
+
+LaTeX Warning: Reference `fig:nirH' on page 16 undefined on input line 224.
+
+
+LaTeX Warning: Reference `fig:sdh' on page 16 undefined on input line 224.
+
+
+LaTeX Warning: Reference `fig:vng2211h' on page 16 undefined on input line 224.
+
+
+
+LaTeX Warning: Citation `abouhamad_dipeptide_1994' on page 16 undefined on inpu
+t line 224.
+
+
+LaTeX Warning: Reference `chap:2' on page 16 undefined on input line 228.
+
+
+LaTeX Warning: Citation `koide_prevalence_2009' on page 16 undefined on input l
+ine 228.
+
+
+LaTeX Warning: Reference `fig:dpp_ecoli_expression' on page 16 undefined on inp
+ut line 228.
+
+
+LaTeX Warning: Reference `fig:galE' on page 16 undefined on input line 228.
+
+
+LaTeX Warning: Reference `fig:ptsh' on page 16 undefined on input line 228.
+
+[16] [17]
+
+LaTeX Warning: Citation `cho_purr_2011' on page 18 undefined on input line 236.
+
+
+[18] (./technical_abstract.bbl)
+<figures/cell_env_signal_external.pdf, id=170, 430.27449pt x 396.14699pt>
+File: figures/cell_env_signal_external.pdf Graphic file (type pdf)
+
+<use figures/cell_env_signal_external.pdf>
+Package pdftex.def Info: figures/cell_env_signal_external.pdf used on input lin
+e 253.
+(pdftex.def)             Requested size: 258.00539pt x 237.551pt.
+
+<figures/cell_env_internall.pdf, id=171, 479.7925pt x 280.04625pt>
+File: figures/cell_env_internall.pdf Graphic file (type pdf)
+
+<use figures/cell_env_internall.pdf>
+Package pdftex.def Info: figures/cell_env_internall.pdf used on input line 260.
+
+(pdftex.def)             Requested size: 258.00539pt x 150.59456pt.
+
+<figures/pssm.pdf, id=172, 479.7925pt x 159.09438pt>
+File: figures/pssm.pdf Graphic file (type pdf)
+ <use figures/pssm.pdf>
+Package pdftex.def Info: figures/pssm.pdf used on input line 267.
+(pdftex.def)             Requested size: 387.00153pt x 128.3268pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/corem.pdf, id=173, 336.66678pt x 277.39034pt>
+File: figures/corem.pdf Graphic file (type pdf)
+ <use figures/corem.pdf>
+Package pdftex.def Info: figures/corem.pdf used on input line 274.
+(pdftex.def)             Requested size: 258.00539pt x 212.58385pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/bicluster.pdf, id=174, 518.93875pt x 416.55624pt>
+File: figures/bicluster.pdf Graphic file (type pdf)
+
+<use figures/bicluster.pdf>
+Package pdftex.def Info: figures/bicluster.pdf used on input line 281.
+(pdftex.def)             Requested size: 387.00153pt x 310.66212pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/egrin2_fig1.pdf, id=175, 544.0325pt x 252.945pt>
+File: figures/egrin2_fig1.pdf Graphic file (type pdf)
+
+<use figures/egrin2_fig1.pdf>
+Package pdftex.def Info: figures/egrin2_fig1.pdf used on input line 288.
+(pdftex.def)             Requested size: 387.00153pt x 179.94342pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/egrin2_AUPR.pdf, id=176, 234.99294pt x 185.06139pt>
+File: figures/egrin2_AUPR.pdf Graphic file (type pdf)
+
+<use figures/egrin2_AUPR.pdf>
+Package pdftex.def Info: figures/egrin2_AUPR.pdf used on input line 295.
+(pdftex.def)             Requested size: 322.50346pt x 254.0013pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/egrin2_dpp_1.pdf, id=177, 313.27237pt x 263.08487pt>
+File: figures/egrin2_dpp_1.pdf Graphic file (type pdf)
+
+<use figures/egrin2_dpp_1.pdf>
+Package pdftex.def Info: figures/egrin2_dpp_1.pdf used on input line 302.
+(pdftex.def)             Requested size: 344.005pt x 288.91252pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/egrin2_dpp_2.pdf, id=178, 313.27237pt x 263.08487pt>
+File: figures/egrin2_dpp_2.pdf Graphic file (type pdf)
+
+<use figures/egrin2_dpp_2.pdf>
+Package pdftex.def Info: figures/egrin2_dpp_2.pdf used on input line 309.
+(pdftex.def)             Requested size: 279.50037pt x 234.73892pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+[19 <./figures/cell_env_signal_external.pdf> <./figures/cell_env_internall.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./figures/cell_env_internall.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>] [20 <./figures/pssm.pdf> <./figures/corem.pdf>] [21 <./figures/bicluster.pdf
+> <./figures/egrin2_fig1.pdf>] [22 <./figures/egrin2_AUPR.pdf>] [23 <./figures/
+egrin2_dpp_1.pdf>] [24 <./figures/egrin2_dpp_2.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
+ (./technical_abstract.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
+Package rerunfilecheck Info: File `technical_abstract.out' has not changed.
+(rerunfilecheck)             Checksum: 95F36405EE16010519113D7C361E738C;1138.
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
+ ) 
+Here is how much of TeX's memory you used:
+ 11359 strings out of 493117
+ 171572 string characters out of 6135433
+ 394240 words of memory out of 5000000
+ 14141 multiletter control sequences out of 15000+600000
+ 81508 words of font info for 395 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,12n,43p,1903b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/pal
+atino/uplri8a.pfb>
+Output written on technical_abstract.pdf (24 pages, 8073063 bytes).
+PDF statistics:
+ 2085 PDF objects out of 2487 (max. 8388607)
+ 706 compressed objects within 8 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 60566 words of extra memory for PDF output out of 61914 (max. 10000000)
+
