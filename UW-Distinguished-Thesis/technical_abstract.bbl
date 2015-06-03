@@ -1,0 +1,852 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{none}
+    \entry{watson_molecular_1953}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=8a7e82c9d29342b2293bc3b8d623744f}{Watson}{W\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=c30dd1be65bb3cf4a946df1b46606786}{Crick}{C\bibinitperiod}{F\bibnamedelima H}{F\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8a7e82c9d29342b2293bc3b8d623744f}{Watson}{W\bibinitperiod}{J\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=c30dd1be65bb3cf4a946df1b46606786}{Crick}{C\bibinitperiod}{F\bibnamedelima H}{F\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{c3e9b203ccf884a0f44c9a051885935d}
+      \strng{fullhash}{c3e9b203ccf884a0f44c9a051885935d}
+      \field{sortinit}{0}
+      \field{labeltitle}{Molecular structure of nucleic acids; a structure for deoxyribose nucleic acid}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{04}
+      \field{number}{4356}
+      \field{title}{Molecular structure of nucleic acids; a structure for deoxyribose nucleic acid}
+      \field{volume}{171}
+      \field{year}{1953}
+      \field{pages}{737\bibrangedash 738}
+      \keyw{Acids,Nucleic}
+    \endentry
+    \entry{smith_fluorescence_1986}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=a56d63686be0b27a2af60fe9bfbac8a5}{Smith}{S\bibinitperiod}{L\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=38b3d8cf78ffdb00c0e917bd97aecf15}{Sanders}{S\bibinitperiod}{J\bibnamedelima Z}{J\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=10d75603f60f4574bb2994fad70b0cdb}{Kaiser}{K\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=07f70f5400619a59f706df811366af79}{Hughes}{H\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8b466caae2c9248ba4166eb59f8cf7}{Dodd}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7218e60a00509fe329b4060d3c129deb}{Connell}{C\bibinitperiod}{C\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=37fe70308614622e88326e21d6cd7fee}{Heiner}{H\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bbccd17a8f48328d0d09a13fc9a28d6d}{Kent}{K\bibinitperiod}{S\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=57dd801cccb1f54bdf6310b544f9d308}{Hood}{H\bibinitperiod}{L\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=a56d63686be0b27a2af60fe9bfbac8a5}{Smith}{S\bibinitperiod}{L\bibnamedelima M}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=38b3d8cf78ffdb00c0e917bd97aecf15}{Sanders}{S\bibinitperiod}{J\bibnamedelima Z}{J\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=10d75603f60f4574bb2994fad70b0cdb}{Kaiser}{K\bibinitperiod}{R\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=07f70f5400619a59f706df811366af79}{Hughes}{H\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8b466caae2c9248ba4166eb59f8cf7}{Dodd}{D\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=7218e60a00509fe329b4060d3c129deb}{Connell}{C\bibinitperiod}{C\bibnamedelima R}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=37fe70308614622e88326e21d6cd7fee}{Heiner}{H\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bbccd17a8f48328d0d09a13fc9a28d6d}{Kent}{K\bibinitperiod}{S\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=57dd801cccb1f54bdf6310b544f9d308}{Hood}{H\bibinitperiod}{L\bibnamedelima E}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{fcf8ebee152e65193a5ea3a471ad0c1f}
+      \strng{fullhash}{7a6e2d0e431445a52a1b7d6fa21ec675}
+      \field{sortinit}{0}
+      \field{labeltitle}{Fluorescence detection in automated {DNA} sequence analysis}
+      \field{abstract}{We have developed a method for the partial automation of DNA sequence analysis. Fluorescence detection of the DNA fragments is accomplished by means of a fluorophore covalently attached to the oligonucleotide primer used in enzymatic DNA sequence analysis. A different coloured fluorophore is used for each of the reactions specific for the bases A, C, G and T. The reaction mixtures are combined and co-electrophoresed down a single polyacrylamide gel tube, the separated fluorescent bands of DNA are detected near the bottom of the tube, and the sequence information is acquired directly by computer.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{06}
+      \field{number}{6071}
+      \field{title}{Fluorescence detection in automated {DNA} sequence analysis}
+      \field{volume}{321}
+      \field{year}{1986}
+      \field{pages}{674\bibrangedash 679}
+      \verb{doi}
+      \verb 10.1038/321674a0
+      \endverb
+      \keyw{Automation,Base Sequence,Computers,Electrophoresis,Fluorescence,Fluorescent Dyes,Molecular Biology,Nucleotides,Polyacrylamide Gel,Spectrometry}
+    \endentry
+    \entry{check_hayden_technology:_2014}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=98bccd6895444caa2e16751fccceef50}{Check\bibnamedelima Hayden}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{Erika}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=98bccd6895444caa2e16751fccceef50}{Check\bibnamedelima Hayden}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{Erika}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{98bccd6895444caa2e16751fccceef50}
+      \strng{fullhash}{98bccd6895444caa2e16751fccceef50}
+      \field{sortinit}{0}
+      \field{labeltitle}{Technology}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{03}
+      \field{number}{7492}
+      \field{shorttitle}{Technology}
+      \field{title}{Technology: {The} \$1,000 genome}
+      \field{urlday}{17}
+      \field{urlmonth}{06}
+      \field{urlyear}{2014}
+      \field{volume}{507}
+      \field{year}{2014}
+      \field{pages}{294\bibrangedash 295}
+      \verb{doi}
+      \verb 10.1038/507294a
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/news/technology-the-1-000-genome-1.14901
+      \endverb
+    \endentry
+    \entry{manolio_finding_2009}{article}{}
+      \name{labelname}{27}{}{%
+        {{hash=47b38dbd0e7e2cb1954d207b7977c48f}{Manolio}{M\bibinitperiod}{Teri\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=54a574f30468f776253cd7bc8fff2e08}{Collins}{C\bibinitperiod}{Francis\bibnamedelima S}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=f2b37f927c861cfbd01911ffc4539919}{Cox}{C\bibinitperiod}{Nancy\bibnamedelima J}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=477ce2b9e7b239b1f3baf699156d3fed}{Goldstein}{G\bibinitperiod}{David\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=be4d8044ae0772d83cb0236d7ae493fc}{Hindorff}{H\bibinitperiod}{Lucia\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9fd788a907cceafec383389a5709d5c2}{Hunter}{H\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=20ad865540b3d03d30254b8bb8655e76}{McCarthy}{M\bibinitperiod}{Mark\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=a9373af4d70c0aac1eb2f71a39670dfd}{Ramos}{R\bibinitperiod}{Erin\bibnamedelima M}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f45d1087c36273fc1bc20770207c83d8}{Cardon}{C\bibinitperiod}{Lon\bibnamedelima R}{L\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=075e9ce87352583945651ba9e07b2ef9}{Chakravarti}{C\bibinitperiod}{Aravinda}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9054ba95309172330e19aba9b9835a02}{Cho}{C\bibinitperiod}{Judy\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=335a2f64ebf8bd10decc4dda16fd5c52}{Guttmacher}{G\bibinitperiod}{Alan\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=6e2e0c71197c5d1f7b517ec44693a0af}{Kong}{K\bibinitperiod}{Augustine}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=a848375ebed6ac40fbb84a75b6c4b64b}{Kruglyak}{K\bibinitperiod}{Leonid}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3a82797e15e3d7b62208b821d72cce2f}{Mardis}{M\bibinitperiod}{Elaine}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=06f665ccb840ed46cf5c7d936ca1d9b4}{Rotimi}{R\bibinitperiod}{Charles\bibnamedelima N}{C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a2e6f3f014cb8aca7e954bf74ff1ac86}{Slatkin}{S\bibinitperiod}{Montgomery}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=649e527f6092e5ecd18bc094cce59925}{Valle}{V\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=d2d6955169a90c45b13743ff140f15e2}{Whittemore}{W\bibinitperiod}{Alice\bibnamedelima S}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=af0e094575cc6cb8a4a322a3defb9e73}{Boehnke}{B\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0e9199b4951d35bc8cae73f97cb02ea3}{Clark}{C\bibinitperiod}{Andrew\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=0b9756431fea4e267911a215b4240a25}{Eichler}{E\bibinitperiod}{Evan\bibnamedelima E}{E\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b535e8d88fc82df5e060b827080a0426}{Gibson}{G\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=909ed84dd7bd16de3a6439726f804848}{Haines}{H\bibinitperiod}{Jonathan\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=56806efb774f841eb11bb1fdef8b8bee}{Mackay}{M\bibinitperiod}{Trudy\bibnamedelimb F\bibnamedelima C}{T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=122d0262f00f0f1da6231f5ab16c324f}{McCarroll}{M\bibinitperiod}{Steven\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe976d0cafc54e6f13f31d3da7a84e6e}{Visscher}{V\bibinitperiod}{Peter\bibnamedelima M}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{27}{}{%
+        {{hash=47b38dbd0e7e2cb1954d207b7977c48f}{Manolio}{M\bibinitperiod}{Teri\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=54a574f30468f776253cd7bc8fff2e08}{Collins}{C\bibinitperiod}{Francis\bibnamedelima S}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=f2b37f927c861cfbd01911ffc4539919}{Cox}{C\bibinitperiod}{Nancy\bibnamedelima J}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=477ce2b9e7b239b1f3baf699156d3fed}{Goldstein}{G\bibinitperiod}{David\bibnamedelima B}{D\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=be4d8044ae0772d83cb0236d7ae493fc}{Hindorff}{H\bibinitperiod}{Lucia\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9fd788a907cceafec383389a5709d5c2}{Hunter}{H\bibinitperiod}{David\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=20ad865540b3d03d30254b8bb8655e76}{McCarthy}{M\bibinitperiod}{Mark\bibnamedelima I}{M\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{hash=a9373af4d70c0aac1eb2f71a39670dfd}{Ramos}{R\bibinitperiod}{Erin\bibnamedelima M}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=f45d1087c36273fc1bc20770207c83d8}{Cardon}{C\bibinitperiod}{Lon\bibnamedelima R}{L\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=075e9ce87352583945651ba9e07b2ef9}{Chakravarti}{C\bibinitperiod}{Aravinda}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9054ba95309172330e19aba9b9835a02}{Cho}{C\bibinitperiod}{Judy\bibnamedelima H}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=335a2f64ebf8bd10decc4dda16fd5c52}{Guttmacher}{G\bibinitperiod}{Alan\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=6e2e0c71197c5d1f7b517ec44693a0af}{Kong}{K\bibinitperiod}{Augustine}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=a848375ebed6ac40fbb84a75b6c4b64b}{Kruglyak}{K\bibinitperiod}{Leonid}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3a82797e15e3d7b62208b821d72cce2f}{Mardis}{M\bibinitperiod}{Elaine}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=06f665ccb840ed46cf5c7d936ca1d9b4}{Rotimi}{R\bibinitperiod}{Charles\bibnamedelima N}{C\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=a2e6f3f014cb8aca7e954bf74ff1ac86}{Slatkin}{S\bibinitperiod}{Montgomery}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=649e527f6092e5ecd18bc094cce59925}{Valle}{V\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=d2d6955169a90c45b13743ff140f15e2}{Whittemore}{W\bibinitperiod}{Alice\bibnamedelima S}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=af0e094575cc6cb8a4a322a3defb9e73}{Boehnke}{B\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0e9199b4951d35bc8cae73f97cb02ea3}{Clark}{C\bibinitperiod}{Andrew\bibnamedelima G}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=0b9756431fea4e267911a215b4240a25}{Eichler}{E\bibinitperiod}{Evan\bibnamedelima E}{E\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=b535e8d88fc82df5e060b827080a0426}{Gibson}{G\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=909ed84dd7bd16de3a6439726f804848}{Haines}{H\bibinitperiod}{Jonathan\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=56806efb774f841eb11bb1fdef8b8bee}{Mackay}{M\bibinitperiod}{Trudy\bibnamedelimb F\bibnamedelima C}{T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=122d0262f00f0f1da6231f5ab16c324f}{McCarroll}{M\bibinitperiod}{Steven\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe976d0cafc54e6f13f31d3da7a84e6e}{Visscher}{V\bibinitperiod}{Peter\bibnamedelima M}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{a42018432074e25617e9444a3e4a3397}
+      \strng{fullhash}{5f9dfb3c502b206d32b6adb8503c40e3}
+      \field{sortinit}{0}
+      \field{labeltitle}{Finding the missing heritability of complex diseases}
+      \field{abstract}{Genome-wide association studies have identified hundreds of genetic variants associated with complex human diseases and traits, and have provided valuable insights into their genetic architecture. Most variants identified so far confer relatively small increments in risk, and explain only a small proportion of familial clustering, leading many to question how the remaining, 'missing' heritability can be explained. Here we examine potential sources of missing heritability and propose research strategies, including and extending beyond current genome-wide association approaches, to illuminate the genetics of complex diseases and enhance its potential to enable effective disease prevention or treatment.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{10}
+      \field{number}{7265}
+      \field{title}{Finding the missing heritability of complex diseases}
+      \field{volume}{461}
+      \field{year}{2009}
+      \field{pages}{747\bibrangedash 753}
+      \verb{doi}
+      \verb 10.1038/nature08494
+      \endverb
+      \keyw{Genetic Diseases,Genetic Predisposition to Disease,genetics,Genome-Wide Association Study,Humans,Inborn,Inheritance Patterns,Medical,Pedigree}
+    \endentry
+    \entry{barabasi_network_2004}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=8371a09b75201e2c5d1d92ca0b19f115}{Barabasi}{B\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ddf6917391b7adf99c510ac63e57e34c}{Oltvai}{O\bibinitperiod}{Z.\bibnamedelimi N.}{Z\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8371a09b75201e2c5d1d92ca0b19f115}{Barabasi}{B\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ddf6917391b7adf99c510ac63e57e34c}{Oltvai}{O\bibinitperiod}{Z.\bibnamedelimi N.}{Z\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{93b405f12ae9fe93c6dc17711ed899c2}
+      \strng{fullhash}{93b405f12ae9fe93c6dc17711ed899c2}
+      \field{sortinit}{0}
+      \field{labeltitle}{Network biology: {Understanding} the cell's functional organization}
+      \field{abstract}{A key aim of postgenomic biomedical research is to systematically catalogue all molecules and their interactions within a living cell. There is a clear need to understand how these molecules and the interactions between them determine the function this enormously complex machinery, both in isolation and when surrounded by other cells. Rapid advances in network biology indicate that cellular networks are governed by universal laws and offer a new conceptual framework that could potentially revolutionize our view of biology and disease pathologies in the twenty-first century.}
+      \field{issn}{1471-0056}
+      \field{journaltitle}{Nature Reviews Genetics}
+      \field{month}{02}
+      \field{note}{WOS:000188602400012}
+      \field{number}{2}
+      \field{title}{Network biology: {Understanding} the cell's functional organization}
+      \field{volume}{5}
+      \field{year}{2004}
+      \field{pages}{101\bibrangedash U15}
+      \verb{doi}
+      \verb 10.1038/nrg1272
+      \endverb
+    \endentry
+    \entry{yu_genomic_2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=d2526c879bf9c50bd2607a0d60da4262}{Yu}{Y\bibinitperiod}{Haiyuan}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=10861ddc78f5e9ff8cf15cfae8e92a88}{Gerstein}{G\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d2526c879bf9c50bd2607a0d60da4262}{Yu}{Y\bibinitperiod}{Haiyuan}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=10861ddc78f5e9ff8cf15cfae8e92a88}{Gerstein}{G\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48602a95d9df87f275e0ecc216c80228}
+      \strng{fullhash}{48602a95d9df87f275e0ecc216c80228}
+      \field{sortinit}{0}
+      \field{labeltitle}{Genomic analysis of the hierarchical structure of regulatory networks}
+      \field{abstract}{A fundamental question in biology is how the cell uses transcription factors (TFs) to coordinate the expression of thousands of genes in response to various stimuli. The relationships between TFs and their target genes can be modeled in terms of directed regulatory networks. These relationships, in turn, can be readily compared with commonplace "chain-of-command" structures in social networks, which have characteristic hierarchical layouts. Here, we develop algorithms for identifying generalized hierarchies (allowing for various loop structures) and use these approaches to illuminate extensive pyramid-shaped hierarchical structures existing in the regulatory networks of representative prokaryotes (Escherichia coit) and eukaryotes (Saccharomyces cerevisiae), with most TFs at the bottom levels and only a few master TFs on top. These masters are situated near the center of the protein-protein interaction network, a different type of network from the regulatory one, and they receive most of the input for the whole regulatory hierarchy through protein interactions. Moreover, they have maximal influence over other genes, in terms of affecting expression-level changes. Surprisingly, however, TFs at the bottom of the regulatory hierarchy are more essential to the viability of the cell. Finally, one might think master TFs achieve their wide influence through directly regulating many targets, but TFs with most direct targets are in the middle of the hierarchy. We find, in fact, that these midlevel TFs are "control bottlenecks" in the hierarchy, and this great degree of control for "middle managers" has parallels in efficient social structures in various corporate and governmental settings.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{10}
+      \field{note}{WOS:000241069300017}
+      \field{number}{40}
+      \field{title}{Genomic analysis of the hierarchical structure of regulatory networks}
+      \field{volume}{103}
+      \field{year}{2006}
+      \field{pages}{14724\bibrangedash 14731}
+      \verb{doi}
+      \verb 10.1073/pnas.0508637103
+      \endverb
+    \endentry
+    \entry{reiss_integrated_2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=57137f68b723e742f18f86f514bc462c}{Reiss}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=11b7adb4b8c894fec6376b538e28c063}{Baliga}{B\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=371fcb8879619e36e49d026d0e692c12}{Bonneau}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=57137f68b723e742f18f86f514bc462c}{Reiss}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=11b7adb4b8c894fec6376b538e28c063}{Baliga}{B\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=371fcb8879619e36e49d026d0e692c12}{Bonneau}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{11e1e670a7a5660e0caa6691fcdc4eef}
+      \strng{fullhash}{e5a3dd60273f58d1103f8a889702644c}
+      \field{sortinit}{0}
+      \field{labeltitle}{Integrated biclustering of heterogeneous genome-wide datasets for the inference of global regulatory networks}
+      \field{abstract}{BACKGROUND:The learning of global genetic regulatory networks from expression data is a severely under-constrained problem that is aided by reducing the dimensionality of the search space by means of clustering genes into putatively co-regulated groups, as opposed to those that are simply co-expressed. Be cause genes may be co-regulated only across a subset of all observed experimental conditions, biclustering (clustering of genes and conditions) is more appropriate than standard clustering. Co-regulated genes are also often functionally (physically, spatially, genetically, and/or evolutionarily) associated, and such a priori known or pre-computed associations can provide support for appropriately grouping genes. One important association is the presence of one or more common cis-regulatory motifs. In organisms where these motifs are not known, their de novo detection, integrated into the clustering algorithm, can help to guide the process towards more biologically parsimonious solutions.RESULTS:We have developed an algorithm, cMonkey, that detects putative co-regulated gene groupings by integrating the biclustering of gene expression data and various functional associations with the de novo detection of sequence motifs.CONCLUSION:We have applied this procedure to the archaeon Halobacterium NRC-1, as part of our efforts to decipher its regulatory network. In addition, we used cMonkey on public data for three organisms in the other two domains of life: Helicobacter pylori, Saccharomyces cerevisiae, and Escherichia coli. The biclusters detected by cMonkey both recapitulated known biology and enabled novel predictions (some for Halobacterium were subsequently confirmed in the laboratory). For example, it identified the bacteriorhodopsin regulon, assigned additional genes to this regulon with apparently unrelated function, and detected its known promoter motif. We have performed a thorough comparison of cMonkey results against other clustering methods, and find that cMonkey biclusters are more parsimonious with all available evidence for co-regulation.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{number}{1}
+      \field{title}{Integrated biclustering of heterogeneous genome-wide datasets for the inference of global regulatory networks}
+      \field{volume}{7}
+      \field{year}{2006}
+      \field{pages}{280}
+      \verb{doi}
+      \verb 10.1186/1471-2105-7-280
+      \endverb
+      \verb{url}
+      \verb http://www.biomedcentral.com/1471-2105/7/280
+      \endverb
+      \keyw{Algorithms,Automated,Base Sequence,Cluster Analysis,Computational Biology,Escherichia coli,Gene Expression Regulation,Genetic,genetics,Genome,Genomics,Halobacterium,Helicobacter pylori,methods,Molecular Sequence Data,Oligonucleotide Array Sequence Analysis,Pattern Recognition,Promoter Regions,Saccharomyces cerevisiae,Sequence Alignment,Species Specificity}
+    \endentry
+    \entry{seni_ensemble_2010}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=c4ee0b07e8c6ff6b87d42e733be6e486}{Seni}{S\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=4f17663dc990fd7cc6318446ad23f343}{Elder}{E\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32775933e82bbac2114d0f75a3dc0bb8}{Grossman}{G\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c4ee0b07e8c6ff6b87d42e733be6e486}{Seni}{S\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=4f17663dc990fd7cc6318446ad23f343}{Elder}{E\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=32775933e82bbac2114d0f75a3dc0bb8}{Grossman}{G\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {San Rafael, Calif.}%
+      }
+      \list{publisher}{2}{%
+        {Morgan}%
+        {Claypool Publishers}%
+      }
+      \strng{namehash}{15f4440dd538b71b51c00e14efa7f1f6}
+      \strng{fullhash}{a4eab3d1c6c0062d4eae8446bf2941f4}
+      \field{sortinit}{0}
+      \field{labeltitle}{Ensemble {Methods} in {Data} {Mining}}
+      \field{abstract}{Ensemble methods have been called the most influential development in Data Mining and Machine Learning in the past decade. They combine multiple models into one usually more accurate than the best of its components. Ensembles can provide a critical boost to industrial challenges -- from investment timing to drug discovery, and fraud detection to recommendation systems -- where predictive accuracy is more vital than model interpretability. Ensembles are useful with all modeling algorithms, but this book focuses on decision trees to explain them most clearly. After describing trees and their strengths and weaknesses, the authors provide an overview of regularization -- today understood to be a key reason for the superior performance of modern ensembling algorithms. The book continues with a clear description of two recent developments: Importance Sampling (IS) and Rule Ensembles (RE). IS reveals classic ensemble methods -- bagging, random forests, and boosting -- to be special cases of a single algorithm, thereby showing how to improve their accuracy and speed. REs are linear rule models derived from decision tree ensembles. They are the most interpretable version of ensembles, which is essential to applications such as credit scoring and fault diagnosis. Lastly, the authors explain the paradox of how ensembles achieve greater accuracy on new data despite their (apparently much greater) complexity.This book is aimed at novice and advanced analytic researchers and practitioners -- especially in Engineering, Statistics, and Computer Science. Those with little exposure to ensembles will learn why and how to employ this breakthrough method, and advanced practitioners will gain insight into building even more powerful models. Throughout, snippets of code in R are provided to illustrate the algorithms described and to encourage the reader to try the techniques.}
+      \field{isbn}{9781608452842}
+      \field{month}{02}
+      \field{shorttitle}{Ensemble {Methods} in {Data} {Mining}}
+      \field{title}{Ensemble {Methods} in {Data} {Mining}: {Improving} {Accuracy} {Through} {Combining} {Predictions}}
+      \field{year}{2010}
+    \endentry
+    \entry{van_dongen_using_2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a8705b104a719ebba595cbd754c2586b}{Dongen}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=7c2a4ac8a706870d6db30ac4c273cf50}{Abreu-Goodger}{A\bibinithyphendelim G\bibinitperiod}{Cei}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a8705b104a719ebba595cbd754c2586b}{Dongen}{D\bibinitperiod}{Stijn}{S\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=7c2a4ac8a706870d6db30ac4c273cf50}{Abreu-Goodger}{A\bibinithyphendelim G\bibinitperiod}{Cei}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{103e8e1f4f4c8cbf78c3e3f0b3aa793d}
+      \strng{fullhash}{103e8e1f4f4c8cbf78c3e3f0b3aa793d}
+      \field{sortinit}{0}
+      \field{labeltitle}{Using {MCL} to extract clusters from networks}
+      \field{abstract}{MCL is a general purpose cluster algorithm for both weighted and unweighted networks. The algorithm utilises network topology as well as edge weights, is highly scalable and has been applied in a wide variety of bioinformatic methods. In this chapter, we give protocols and case studies for clustering of networks derived from, respectively, protein sequence similarities and gene expression profile correlations.}
+      \field{issn}{1940-6029}
+      \field{journaltitle}{Methods in molecular biology (Clifton, N.J.)}
+      \field{title}{Using {MCL} to extract clusters from networks}
+      \field{volume}{804}
+      \field{year}{2012}
+      \field{pages}{281\bibrangedash 295}
+      \verb{doi}
+      \verb 10.1007/978-1-61779-361-5_15
+      \endverb
+      \keyw{Algorithms,Amino Acid,Cluster Analysis,Computational Biology,Gene Expression Profiling,Mathematical Concepts,Sequence Homology,Software}
+    \endentry
+    \entry{bailey_methods_1998}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=3a4ed2874ad853b863fecc06da52e901}{Bailey}{B\bibinitperiod}{T.\bibnamedelimi L.}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5fae5c8c8ccb640e3bb9f99f020a67e9}{Gribskov}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3a4ed2874ad853b863fecc06da52e901}{Bailey}{B\bibinitperiod}{T.\bibnamedelimi L.}{T\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=5fae5c8c8ccb640e3bb9f99f020a67e9}{Gribskov}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{1db84687a6926b3ae2c0b6799b7e64e5}
+      \strng{fullhash}{1db84687a6926b3ae2c0b6799b7e64e5}
+      \field{sortinit}{0}
+      \field{labeltitle}{Methods and statistics for combining motif match scores.}
+      \field{abstract}{Position-specific scoring matrices are useful for representing and searching for protein sequence motifs. A sequence family can often be described by a group of one or more motifs, and an effective search must combine the scores for matching a sequence to each of the motifs in the group. We describe three methods for combining match scores and estimating the statistical significance of the combined scores and evaluate the search quality (classification accuracy) and the accuracy of the estimate of statistical significance of each. The three methods are: 1) sum of scores, 2) sum of reduced variates, 3) product of score p-values. We show that method 3) is superior to the other two methods in both regards, and that combining motif scores indeed gives better search accuracy. The MAST sequence homology search algorithm utilizing the product of p-values scoring method is available for interactive use and downloading at URL http:/(/)www.sdsc.edu/MEME.}
+      \field{journaltitle}{J Comput Biol}
+      \field{number}{2}
+      \field{title}{Methods and statistics for combining motif match scores.}
+      \field{volume}{5}
+      \field{year}{1998}
+      \field{pages}{211\bibrangedash 221}
+      \keyw{Algorithms,Amino Acid,Databases,Factual,methods,Models,Proteins,Sequence Alignment,Sequence Homology,Software,Theoretical}
+    \endentry
+    \entry{serrano_extracting_2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=293f4ef134258ea7c6ad1fe3f976d26d}{Serrano}{S\bibinitperiod}{M\bibnamedelima Angeles}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ae35b31567c6447f14a37d7ff847c45a}{Boguna}{B\bibinitperiod}{Marian}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9932ed1839be02bb53a62b258449a8}{Vespignani}{V\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=293f4ef134258ea7c6ad1fe3f976d26d}{Serrano}{S\bibinitperiod}{M\bibnamedelima Angeles}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ae35b31567c6447f14a37d7ff847c45a}{Boguna}{B\bibinitperiod}{Marian}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8f9932ed1839be02bb53a62b258449a8}{Vespignani}{V\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{5cd578a958172a5550262c923e3aee3c}
+      \strng{fullhash}{54d6b9ecc5604511877571ac557e2457}
+      \field{sortinit}{0}
+      \field{labeltitle}{Extracting the multiscale backbone of complex weighted networks.}
+      \field{abstract}{A large number of complex systems find a natural abstraction in the form of weighted networks whose nodes represent the elements of the system and the weighted edges identify the presence of an interaction and its relative strength. In recent years, the study of an increasing number of large-scale networks has highlighted the statistical heterogeneity of their interaction pattern, with degree and weight distributions that vary over many orders of magnitude. These features, along with the large number of elements and links, make the extraction of the truly relevant connections forming the network's backbone a very challenging problem. More specifically, coarse-graining approaches and filtering techniques come into conflict with the multiscale nature of large-scale systems. Here, we define a filtering method that offers a practical procedure to extract the relevant connection backbone in complex multiscale networks, preserving the edges that represent statistically significant deviations with respect to a null model for the local assignment of weights to edges. An important aspect of the method is that it does not belittle small-scale interactions and operates at all scales defined by the weight distribution. We apply our method to real-world network instances and compare the obtained results with alternative backbone extraction techniques.}
+      \field{journaltitle}{Proc Natl Acad Sci U S A}
+      \field{month}{04}
+      \field{number}{16}
+      \field{title}{Extracting the multiscale backbone of complex weighted networks.}
+      \field{volume}{106}
+      \field{year}{2009}
+      \field{pages}{6483\bibrangedash 6488}
+      \verb{doi}
+      \verb 10.1073/pnas.0808904106
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1073/pnas.0808904106
+      \endverb
+    \endentry
+    \entry{ahn_link_2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2a5db80283bd913987288e85515d3ed4}{Ahn}{A\bibinitperiod}{Yong-Yeol}{Y\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=55fae620ea8e5025ba7c20e646baa20c}{Bagrow}{B\bibinitperiod}{James\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=7275a8e12649c5b55e14fb19ee02fd7c}{Lehmann}{L\bibinitperiod}{Sune}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2a5db80283bd913987288e85515d3ed4}{Ahn}{A\bibinitperiod}{Yong-Yeol}{Y\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=55fae620ea8e5025ba7c20e646baa20c}{Bagrow}{B\bibinitperiod}{James\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=7275a8e12649c5b55e14fb19ee02fd7c}{Lehmann}{L\bibinitperiod}{Sune}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{752d7535f992191ab856cea037ed2ab9}
+      \strng{fullhash}{9b7bbbcc0f32c7dd4119b1b6f6e20cae}
+      \field{sortinit}{0}
+      \field{labeltitle}{Link communities reveal multiscale complexity in networks.}
+      \field{abstract}{Networks have become a key approach to understanding systems of interacting objects, unifying the study of diverse phenomena including biological organisms and human society. One crucial step when studying the structure and dynamics of networks is to identify communities: groups of related nodes that correspond to functional subunits such as protein complexes or social spheres. Communities in networks often overlap such that nodes simultaneously belong to several groups. Meanwhile, many networks are known to possess hierarchical organization, where communities are recursively grouped into a hierarchical structure. However, the fact that many real networks have communities with pervasive overlap, where each and every node belongs to more than one group, has the consequence that a global hierarchy of nodes cannot capture the relationships between overlapping groups. Here we reinvent communities as groups of links rather than nodes and show that this unorthodox approach successfully reconciles the antagonistic organizing principles of overlapping communities and hierarchy. In contrast to the existing literature, which has entirely focused on grouping nodes, link communities naturally incorporate overlap while revealing hierarchical organization. We find relevant link communities in many networks, including major biological networks such as protein-protein interaction and metabolic networks, and show that a large social network contains hierarchically organized community structures spanning inner-city to regional scales while maintaining pervasive overlap. Our results imply that link communities are fundamental building blocks that reveal overlap and hierarchical organization in networks to be two aspects of the same phenomenon.}
+      \field{journaltitle}{Nature}
+      \field{month}{08}
+      \field{number}{7307}
+      \field{title}{Link communities reveal multiscale complexity in networks.}
+      \field{volume}{466}
+      \field{year}{2010}
+      \field{pages}{761\bibrangedash 764}
+      \verb{doi}
+      \verb 10.1038/nature09182
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature09182
+      \endverb
+      \keyw{Biological,Cellular Phone,Cities,Community Networks,Humans,Metabolic Networks and Pathways,Models,Protein Interaction Mapping,statistics /\&/ numerical data,utilization}
+    \endentry
+    \entry{brooks_system_2014}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=321e134ba0550e34137e831a52509191}{Brooks}{B\bibinitperiod}{Aaron\bibnamedelima N.}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6778410bcc13d789e3caa3d9a89ba699}{Allard}{A\bibinitperiod}{Antoine}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=cfa2312dace2c16a5ace630068f57667}{Wu}{W\bibinitperiod}{Wei-Ju}{W\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4cb5eab739cc15868b2fecee9e24a51f}{Salvanha}{S\bibinitperiod}{Diego\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=da14ef8b180eaa140419263882eaf0ac}{Plaisier}{P\bibinitperiod}{Christopher\bibnamedelima L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=abca761f97eecc999cc96c62a94cad98}{Chandrasekaran}{C\bibinitperiod}{Sriram}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5b5fffa4d52e631877d9f9dbc471e3d4}{Kaur}{K\bibinitperiod}{Amardeep}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=321e134ba0550e34137e831a52509191}{Brooks}{B\bibinitperiod}{Aaron\bibnamedelima N.}{A\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=6778410bcc13d789e3caa3d9a89ba699}{Allard}{A\bibinitperiod}{Antoine}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=cfa2312dace2c16a5ace630068f57667}{Wu}{W\bibinitperiod}{Wei-Ju}{W\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=4cb5eab739cc15868b2fecee9e24a51f}{Salvanha}{S\bibinitperiod}{Diego\bibnamedelima M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=da14ef8b180eaa140419263882eaf0ac}{Plaisier}{P\bibinitperiod}{Christopher\bibnamedelima L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=abca761f97eecc999cc96c62a94cad98}{Chandrasekaran}{C\bibinitperiod}{Sriram}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5b5fffa4d52e631877d9f9dbc471e3d4}{Kaur}{K\bibinitperiod}{Amardeep}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e8ba5bde42299b27ec215049511ac51b}
+      \strng{fullhash}{81a796c7a181c77e6894446a450b7578}
+      \field{sortinit}{0}
+      \field{labeltitle}{A system level model for the microbial regulatory genome}
+      \field{abstract}{Microbes can tailor transcriptional responses to diverse environmental challenges despite having streamlined genomes and a limited number of regulators. Here, we present dataâ€\x{fffd}driven models that capture the dynamic interplay of the environment and genomeâ€\x{fffd}encoded regulatory programs of two types of prokaryotes: Escherichia coli (a bacterium) and Halobacterium salinarum (an archaeon). The models reveal how the genomeâ€\x{fffd}wide distributions of cisâ€\x{fffd}acting gene regulatory elements and the conditional influences of transcription factors at each of those elements encode programs for eliciting a wide array of environmentâ€\x{fffd}specific responses. We demonstrate how these programs partition transcriptional regulation of genes within regulons and operons to reâ€\x{fffd}organize geneâ€“gene functional associations in each environment. The models capture fitnessâ€\x{fffd}relevant coâ€\x{fffd}regulation by different transcriptional control mechanisms acting across the entire genome, to define a generalized, systemâ€\x{fffd}level organizing principle for prokaryotic gene regulatory networks that goes well beyond existing paradigms of gene regulation. An online resource (http://egrin2.systemsbiology.net) has been developed to facilitate multiscale exploration of conditional gene regulation in the two prokaryotes. Synopsis Genomeâ€\x{fffd}scale reconstruction of microbial gene regulatory networks using genome sequence and transcriptional profiles reveals conditionâ€\x{fffd}dependent coâ€\x{fffd}regulated modules (corems) and predicts the underlying cisâ€\x{fffd}regulatory mechanisms. Genomeâ€\x{fffd}wide map of gene regulatory elements (GREs) and their conditionâ€\x{fffd}specific activitiesModel predicts which mechanisms mediate responses to specific environmentsOperons and regulons are conditionally partitioned and reâ€\x{fffd}associated into coâ€\x{fffd}regulated modules or â€œcoremsâ€\x{fffd}.Corems group together genes from different operons and regulons that have highly similar fitness consequences.}
+      \field{issn}{1744-4292, 1744-4292}
+      \field{journaltitle}{Molecular Systems Biology}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{A system level model for the microbial regulatory genome}
+      \field{urlday}{03}
+      \field{urlmonth}{06}
+      \field{urlyear}{2015}
+      \field{volume}{10}
+      \field{year}{2014}
+      \field{pages}{740}
+      \verb{doi}
+      \verb 10.15252/msb.20145160
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/brooks/Library/Application Support/Zotero/Profiles/4706bc58.default/zotero/storage/QXIWZT6K/Brooks et al. - 2014 - A systemâ€\x{fffd}level model for the microbial regulatory .html:text/html;Snapshot:/Users/brooks/Library/Application Support/Zotero/Profiles/4706bc58.default/zotero/storage/4GKGTAKJ/740.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://msb.embopress.org/content/10/7/740
+      \endverb
+      \keyw{EGRIN,gene regulatory networks,systems biology,transcriptional regulation}
+    \endentry
+    \entry{gama-castro_regulondb_2011}{article}{}
+      \name{labelname}{28}{}{%
+        {{hash=85b83956eb115c88378168873cfccb33}{Gama-Castro}{G\bibinithyphendelim C\bibinitperiod}{Socorro}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=86380fc001b99dfea382f75a7bc516e9}{Salgado}{S\bibinitperiod}{Heladia}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=985a97133e9a196692d269e6b663d9cd}{Peralta-Gil}{P\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=361516b5a2a221a8d42292713f286bd7}{Santos-Zavaleta}{S\bibinithyphendelim Z\bibinitperiod}{Alberto}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=42ba09bc1db17a67784da4c3cd99c3f4}{Muniz-Rascado}{M\bibinithyphendelim R\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=17734cd6a2d154eb06a1d40cc2ae50d7}{Solano-Lira}{S\bibinithyphendelim L\bibinitperiod}{Hilda}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ccc380fd78b60b45e60d75cd125efe4f}{Jimenez-Jacinto}{J\bibinithyphendelim J\bibinitperiod}{Veronica}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=77ea8c770770825b5bf738b04510fee8}{Weiss}{W\bibinitperiod}{Verena}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=cb22e267d6b532a96899d1ab3cbaf9eb}{Garcia-Sotelo}{G\bibinithyphendelim S\bibinitperiod}{Jair\bibnamedelima S}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07194bf50a06e70c255f968a9792f0}{Lopez-Fuentes}{L\bibinithyphendelim F\bibinitperiod}{Alejandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=169bc950b46073dce3cd39725766a5cb}{Porron-Sotelo}{P\bibinithyphendelim S\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3fb28fe3cfd01d7bb0d39a77cceafb11}{Alquicira-Hernandez}{A\bibinithyphendelim H\bibinitperiod}{Shirley}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=cdc282597bc855db77a61977749f167a}{Medina-Rivera}{M\bibinithyphendelim R\bibinitperiod}{Alejandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5f37dc3d3f05984899ebb4dbae44951e}{Martinez-Flores}{M\bibinithyphendelim F\bibinitperiod}{Irma}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=b73713a779d1f5b088afd806daa08be6}{Alquicira-Hernandez}{A\bibinithyphendelim H\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=38664bc312044773d1a4a68e4f154561}{Martinez-Adame}{M\bibinithyphendelim A\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=c79fd15b93bb1bd2944ddf94bdbf1233}{Bonavides-Martinez}{B\bibinithyphendelim M\bibinitperiod}{Cesar}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9c11f06c3d3fd9c5779abe5bbdebd1ff}{Miranda-RÃ­os}{M\bibinithyphendelim R\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8bbc2b1ec0de845d0e4172c0cd70a0c0}{Huerta}{H\bibinitperiod}{Araceli\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2b3a6e09705b0c75ce34dba0295feb29}{Mendoza-Vargas}{M\bibinithyphendelim V\bibinitperiod}{Alfredo}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9ad4d60f4464662821030c7a58fbbb37}{Collado-Torres}{C\bibinithyphendelim T\bibinitperiod}{Leonardo}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b3e444e59a6948870249afd3132bafee}{Taboada}{T\bibinitperiod}{Blanca}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d2bf7759999beaab94ec6412e9690ca}{Vega-Alvarado}{V\bibinithyphendelim A\bibinitperiod}{Leticia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=384cc4af735dcbbb9332eff90e2e16cb}{Olvera}{O\bibinitperiod}{Maricela}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0ada61bccab4488372a444d325edf80}{Olvera}{O\bibinitperiod}{Leticia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a76fcabf27f257ba5bfd6233bd9641e8}{Grande}{G\bibinitperiod}{Ricardo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=38dbe73cae7e20681414af63e1efb732}{Morett}{M\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=356996336669713514fa88992711b9db}{Collado-Vides}{C\bibinithyphendelim V\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{28}{}{%
+        {{hash=85b83956eb115c88378168873cfccb33}{Gama-Castro}{G\bibinithyphendelim C\bibinitperiod}{Socorro}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=86380fc001b99dfea382f75a7bc516e9}{Salgado}{S\bibinitperiod}{Heladia}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=985a97133e9a196692d269e6b663d9cd}{Peralta-Gil}{P\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=361516b5a2a221a8d42292713f286bd7}{Santos-Zavaleta}{S\bibinithyphendelim Z\bibinitperiod}{Alberto}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=42ba09bc1db17a67784da4c3cd99c3f4}{Muniz-Rascado}{M\bibinithyphendelim R\bibinitperiod}{Luis}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=17734cd6a2d154eb06a1d40cc2ae50d7}{Solano-Lira}{S\bibinithyphendelim L\bibinitperiod}{Hilda}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=ccc380fd78b60b45e60d75cd125efe4f}{Jimenez-Jacinto}{J\bibinithyphendelim J\bibinitperiod}{Veronica}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=77ea8c770770825b5bf738b04510fee8}{Weiss}{W\bibinitperiod}{Verena}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=cb22e267d6b532a96899d1ab3cbaf9eb}{Garcia-Sotelo}{G\bibinithyphendelim S\bibinitperiod}{Jair\bibnamedelima S}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=fa07194bf50a06e70c255f968a9792f0}{Lopez-Fuentes}{L\bibinithyphendelim F\bibinitperiod}{Alejandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=169bc950b46073dce3cd39725766a5cb}{Porron-Sotelo}{P\bibinithyphendelim S\bibinitperiod}{Liliana}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3fb28fe3cfd01d7bb0d39a77cceafb11}{Alquicira-Hernandez}{A\bibinithyphendelim H\bibinitperiod}{Shirley}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=cdc282597bc855db77a61977749f167a}{Medina-Rivera}{M\bibinithyphendelim R\bibinitperiod}{Alejandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5f37dc3d3f05984899ebb4dbae44951e}{Martinez-Flores}{M\bibinithyphendelim F\bibinitperiod}{Irma}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=b73713a779d1f5b088afd806daa08be6}{Alquicira-Hernandez}{A\bibinithyphendelim H\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=38664bc312044773d1a4a68e4f154561}{Martinez-Adame}{M\bibinithyphendelim A\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=c79fd15b93bb1bd2944ddf94bdbf1233}{Bonavides-Martinez}{B\bibinithyphendelim M\bibinitperiod}{Cesar}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=9c11f06c3d3fd9c5779abe5bbdebd1ff}{Miranda-RÃ­os}{M\bibinithyphendelim R\bibinitperiod}{Juan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=8bbc2b1ec0de845d0e4172c0cd70a0c0}{Huerta}{H\bibinitperiod}{Araceli\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=2b3a6e09705b0c75ce34dba0295feb29}{Mendoza-Vargas}{M\bibinithyphendelim V\bibinitperiod}{Alfredo}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9ad4d60f4464662821030c7a58fbbb37}{Collado-Torres}{C\bibinithyphendelim T\bibinitperiod}{Leonardo}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b3e444e59a6948870249afd3132bafee}{Taboada}{T\bibinitperiod}{Blanca}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=7d2bf7759999beaab94ec6412e9690ca}{Vega-Alvarado}{V\bibinithyphendelim A\bibinitperiod}{Leticia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=384cc4af735dcbbb9332eff90e2e16cb}{Olvera}{O\bibinitperiod}{Maricela}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d0ada61bccab4488372a444d325edf80}{Olvera}{O\bibinitperiod}{Leticia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a76fcabf27f257ba5bfd6233bd9641e8}{Grande}{G\bibinitperiod}{Ricardo}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=38dbe73cae7e20681414af63e1efb732}{Morett}{M\bibinitperiod}{Enrique}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=356996336669713514fa88992711b9db}{Collado-Vides}{C\bibinithyphendelim V\bibinitperiod}{Julio}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{54a14cb2729d6410d930bbfbef2955ae}
+      \strng{fullhash}{e4c1ea9914224d2ee9f8606641b9b096}
+      \field{sortinit}{0}
+      \field{labeltitle}{{RegulonDB} version 7.0}
+      \field{abstract}{RegulonDB (http://regulondb.ccg.unam.mx/) is the primary reference database of the best-known regulatory network of any free-living organism, that of Escherichia coli K-12. The major conceptual change since 3 years ago is an expanded biological context so that transcriptional regulation is now part of a unit that initiates with the signal and continues with the signal transduction to the core of regulation, modifying expression of the affected target genes responsible for the response. We call these genetic sensory response units, or Gensor Units. We have initiated their high-level curation, with graphic maps and superreactions with links to other databases. Additional connectivity uses expandable submaps. RegulonDB has summaries for every transcription factor (TF) and TF-binding sites with internal symmetry. Several DNA-binding motifs and their sizes have been redefined and relocated. In addition to data from the literature, we have incorporated our own information on transcription start sites (TSSs) and transcriptional units (TUs), obtained by using high-throughput whole-genome sequencing technologies. A new portable drawing tool for genomic features is also now available, as well as new ways to download the data, including web services, files for several relational database manager systems and text files including BioPAX format.}
+      \field{issn}{1362-4962}
+      \field{journaltitle}{Nucleic acids research}
+      \field{month}{01}
+      \field{number}{Database issue}
+      \field{shorttitle}{{RegulonDB} version 7.0}
+      \field{title}{{RegulonDB} version 7.0: transcriptional regulation of {Escherichia} coli {K}-12 integrated within genetic sensory response units ({Gensor} {Units})}
+      \field{volume}{39}
+      \field{year}{2011}
+      \field{pages}{D98\bibrangedash 105}
+      \verb{doi}
+      \verb 10.1093/nar/gkq1110
+      \endverb
+      \keyw{Bacterial,Binding Sites,Databases,Escherichia coli K12,Gene Expression Regulation,Gene Regulatory Networks,Genetic,Signal Transduction,Systems Integration,Transcription,Transcription Factors,Transcription Initiation Site}
+    \endentry
+    \entry{faith_large-scale_2007}{article}{}
+      \name{labelname}{9}{}{%
+        {{hash=9783f15cc416bd02a87d67805b0f1a51}{Faith}{F\bibinitperiod}{Jeremiah\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=edf95e33f437b63e379e153c7865e83a}{Hayete}{H\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=5c3948cf1c637a416578af67ee538890}{Thaden}{T\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c540368184e61ed10e04b449e1ecf7e}{Mogno}{M\bibinitperiod}{Ilaria}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=6e5cf5ede2f56793596320aa206594d4}{Wierzbowski}{W\bibinitperiod}{Jamey}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=903146a27e736025ecfad8baf866f9ff}{Cottarel}{C\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2b35f17bc721cf2a624bf8335b594bb}{Kasif}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=6c8469ebcf7a1d308ec25f792f8019de}{Collins}{C\bibinitperiod}{James\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f72c2213508435c1efb92fd18fcca09b}{Gardner}{G\bibinitperiod}{Timothy\bibnamedelima S.}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=9783f15cc416bd02a87d67805b0f1a51}{Faith}{F\bibinitperiod}{Jeremiah\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=edf95e33f437b63e379e153c7865e83a}{Hayete}{H\bibinitperiod}{Boris}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=5c3948cf1c637a416578af67ee538890}{Thaden}{T\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c540368184e61ed10e04b449e1ecf7e}{Mogno}{M\bibinitperiod}{Ilaria}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=6e5cf5ede2f56793596320aa206594d4}{Wierzbowski}{W\bibinitperiod}{Jamey}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=903146a27e736025ecfad8baf866f9ff}{Cottarel}{C\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2b35f17bc721cf2a624bf8335b594bb}{Kasif}{K\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=6c8469ebcf7a1d308ec25f792f8019de}{Collins}{C\bibinitperiod}{James\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=f72c2213508435c1efb92fd18fcca09b}{Gardner}{G\bibinitperiod}{Timothy\bibnamedelima S.}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{bd859948c52b38ea3e3768bee5a7ec25}
+      \strng{fullhash}{a94f0b451abbd88892e8f0514740b357}
+      \field{sortinit}{0}
+      \field{labeltitle}{Large-scale mapping and validation of {Escherichia} coli transcriptional regulation from a compendium of expression profiles.}
+      \field{abstract}{Machine learning approaches offer the potential to systematically identify transcriptional regulatory interactions from a compendium of microarray expression profiles. However, experimental validation of the performance of these methods at the genome scale has remained elusive. Here we assess the global performance of four existing classes of inference algorithms using 445 Escherichia coli Affymetrix arrays and 3,216 known E. coli regulatory interactions from RegulonDB. We also developed and applied the context likelihood of relatedness (CLR) algorithm, a novel extension of the relevance networks class of algorithms. CLR demonstrates an average precision gain of 36\% relative to the next-best performing algorithm. At a 60\% true positive rate, CLR identifies 1,079 regulatory interactions, of which 338 were in the previously known network and 741 were novel predictions. We tested the predicted interactions for three transcription factors with chromatin immunoprecipitation, confirming 21 novel interactions and verifying our RegulonDB-based performance estimates. CLR also identified a regulatory link providing central metabolic control of iron transport, which we confirmed with real-time quantitative PCR. The compendium of expression data compiled in this study, coupled with RegulonDB, provides a valuable model system for further improvement of network inference algorithms using experimental data.}
+      \field{journaltitle}{PLoS Biol}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Large-scale mapping and validation of {Escherichia} coli transcriptional regulation from a compendium of expression profiles.}
+      \field{volume}{5}
+      \field{year}{2007}
+      \field{pages}{e8}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.0050008
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1371/journal.pbio.0050008
+      \endverb
+      \keyw{Algorithms,Bacterial,Biological Transport,Escherichia coli,Gene Expression Profiling,Gene Expression Regulation,Gene Regulatory Networks,Genetic,genetics,genetics/metabolism,Iron,metabolism,Oligonucleotide Array Sequence Analysis,Operon,Reproducibility of Results,Transcription}
+    \endentry
+    \entry{marbach_wisdom_2012}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=1d99e86ddea2db9b88da4322d958c7cc}{Marbach}{M\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=19cf8821dbdb5fe8d04babf3c61deeaa}{Costello}{C\bibinitperiod}{James\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=547d037b96fbd34f3242082e8fecb836}{KÃ¼ffner}{K\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=86144b53ba7d6473d74d040bc26b2198}{Vega}{V\bibinitperiod}{Nicole\bibnamedelima M}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=e3f84700832128f0767c76bae6c2555b}{Prill}{P\bibinitperiod}{Robert\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e17b2deccab81e8d642f53c8d0e76735}{Camacho}{C\bibinitperiod}{Diogo\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ac9bdf1ddf7a5c8a9c00045113d145}{Allison}{A\bibinitperiod}{Kyle\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a36413bf93927d348dcb51f1402890d0}{{DREAM5\bibnamedelimb Consortium}}{D\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=6a99dd95bca575ed4b17ba598894fedc}{Kellis}{K\bibinitperiod}{Manolis}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f0f74f0fbecb48e5c6604e8e3789d538}{Collins}{C\bibinitperiod}{James\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=354be337a5cc745ab39ab463dbc357f6}{Stolovitzky}{S\bibinitperiod}{Gustavo}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=1d99e86ddea2db9b88da4322d958c7cc}{Marbach}{M\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=19cf8821dbdb5fe8d04babf3c61deeaa}{Costello}{C\bibinitperiod}{James\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=547d037b96fbd34f3242082e8fecb836}{KÃ¼ffner}{K\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=86144b53ba7d6473d74d040bc26b2198}{Vega}{V\bibinitperiod}{Nicole\bibnamedelima M}{N\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=e3f84700832128f0767c76bae6c2555b}{Prill}{P\bibinitperiod}{Robert\bibnamedelima J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e17b2deccab81e8d642f53c8d0e76735}{Camacho}{C\bibinitperiod}{Diogo\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=c7ac9bdf1ddf7a5c8a9c00045113d145}{Allison}{A\bibinitperiod}{Kyle\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=a36413bf93927d348dcb51f1402890d0}{{DREAM5\bibnamedelimb Consortium}}{D\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=6a99dd95bca575ed4b17ba598894fedc}{Kellis}{K\bibinitperiod}{Manolis}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f0f74f0fbecb48e5c6604e8e3789d538}{Collins}{C\bibinitperiod}{James\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=354be337a5cc745ab39ab463dbc357f6}{Stolovitzky}{S\bibinitperiod}{Gustavo}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{b889ab25edcb9dcd03e70ac29414a1a8}
+      \strng{fullhash}{f0684fc161cb32b23d068be181378d7b}
+      \field{sortinit}{0}
+      \field{labeltitle}{Wisdom of crowds for robust gene network inference}
+      \field{abstract}{Reconstructing gene regulatory networks from high-throughput data is a long-standing challenge. Through the Dialogue on Reverse Engineering Assessment and Methods (DREAM) project, we performed a comprehensive blind assessment of over 30 network inference methods on Escherichia coli, Staphylococcus aureus, Saccharomyces cerevisiae and in silico microarray data. We characterize the performance, data requirements and inherent biases of different inference approaches, and we provide guidelines for algorithm application and development. We observed that no single inference method performs optimally across all data sets. In contrast, integration of predictions from multiple inference methods shows robust and high performance across diverse data sets. We thereby constructed high-confidence networks for E. coli and S. aureus, each comprising {\textbackslash}textbackslashtextasciitilde1,700 transcriptional interactions at a precision of {\textbackslash}textbackslashtextasciitilde50\%. We experimentally tested 53 previously unobserved regulatory interactions in E. coli, of which 23 (43\%) were supported. Our results establish community-based methods as a powerful and robust tool for the inference of transcriptional gene regulatory networks.}
+      \field{issn}{1548-7105}
+      \field{journaltitle}{Nature methods}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{Wisdom of crowds for robust gene network inference}
+      \field{volume}{9}
+      \field{year}{2012}
+      \field{pages}{796\bibrangedash 804}
+      \verb{doi}
+      \verb 10.1038/nmeth.2016
+      \endverb
+      \keyw{Algorithms,Bacterial,Computational Biology,Escherichia coli,Gene Expression Regulation,Gene Regulatory Networks,Genetic,Oligonucleotide Array Sequence Analysis,Saccharomyces cerevisiae,Software,Staphylococcus aureus,Transcription}
+    \endentry
+    \entry{koide_prevalence_2009}{article}{}
+      \name{labelname}{15}{}{%
+        {{hash=9b05f8564ac563fa92024aa7eb61291f}{Koide}{K\bibinitperiod}{Tie}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=97016ae19ac83194d510bf223ab60978}{Bare}{B\bibinitperiod}{J\bibnamedelima Christopher}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=a96a5bcc45fe8ddbd4aaa4c4a99b98d6}{Pang}{P\bibinitperiod}{Wyming\bibnamedelima Lee}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0456d96394bf12d8003e64e41a800dc3}{Facciotti}{F\bibinitperiod}{Marc\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=1f83b7d955ae846f755ad0104b1db8ae}{Schmid}{S\bibinitperiod}{Amy\bibnamedelima K.}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3d49f55ecffa714c8e9a37d333b8ea8a}{Marzolf}{M\bibinitperiod}{Bruz}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=0d3ffe4ee4289859d6e4f020cb88eade}{Van}{V\bibinitperiod}{Phu\bibnamedelima T.}{P\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8a599534c05d225f5fb89f10b349b2de}{Lo}{L\bibinitperiod}{Fang-Yin}{F\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7fd0f9bab3e22b0189f9f3131db652b9}{Pratap}{P\bibinitperiod}{Abhishek}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d99caed184a09adf199a7e2a37e18a42}{Deutsch}{D\bibinitperiod}{Eric\bibnamedelima W.}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=8e7a3807fc8283428c0e5bd77ee11ca2}{Peterson}{P\bibinitperiod}{Amelia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f092a5e904fcf877f4734be9187f1f7a}{Martin}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{15}{}{%
+        {{hash=9b05f8564ac563fa92024aa7eb61291f}{Koide}{K\bibinitperiod}{Tie}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=97016ae19ac83194d510bf223ab60978}{Bare}{B\bibinitperiod}{J\bibnamedelima Christopher}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=a96a5bcc45fe8ddbd4aaa4c4a99b98d6}{Pang}{P\bibinitperiod}{Wyming\bibnamedelima Lee}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=0456d96394bf12d8003e64e41a800dc3}{Facciotti}{F\bibinitperiod}{Marc\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=1f83b7d955ae846f755ad0104b1db8ae}{Schmid}{S\bibinitperiod}{Amy\bibnamedelima K.}{A\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3d49f55ecffa714c8e9a37d333b8ea8a}{Marzolf}{M\bibinitperiod}{Bruz}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=0d3ffe4ee4289859d6e4f020cb88eade}{Van}{V\bibinitperiod}{Phu\bibnamedelima T.}{P\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=8a599534c05d225f5fb89f10b349b2de}{Lo}{L\bibinitperiod}{Fang-Yin}{F\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7fd0f9bab3e22b0189f9f3131db652b9}{Pratap}{P\bibinitperiod}{Abhishek}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d99caed184a09adf199a7e2a37e18a42}{Deutsch}{D\bibinitperiod}{Eric\bibnamedelima W.}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=8e7a3807fc8283428c0e5bd77ee11ca2}{Peterson}{P\bibinitperiod}{Amelia}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f092a5e904fcf877f4734be9187f1f7a}{Martin}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{77ff4f20874472d13e23aa411789f3ff}
+      \strng{fullhash}{95135eb5fac752dde013ebfbebe22308}
+      \field{sortinit}{0}
+      \field{labeltitle}{Prevalence of transcription promoters within archaeal operons and coding sequences.}
+      \field{abstract}{Despite the knowledge of complex prokaryotic-transcription mechanisms, generalized rules, such as the simplified organization of genes into operons with well-defined promoters and terminators, have had a significant role in systems analysis of regulatory logic in both bacteria and archaea. Here, we have investigated the prevalence of alternate regulatory mechanisms through genome-wide characterization of transcript structures of approximately 64\% of all genes, including putative non-coding RNAs in Halobacterium salinarum NRC-1. Our integrative analysis of transcriptome dynamics and protein-DNA interaction data sets showed widespread environment-dependent modulation of operon architectures, transcription initiation and termination inside coding sequences, and extensive overlap in 3' ends of transcripts for many convergently transcribed genes. A significant fraction of these alternate transcriptional events correlate to binding locations of 11 transcription factors and regulators (TFs) inside operons and annotated genes-events usually considered spurious or non-functional. Using experimental validation, we illustrate the prevalence of overlapping genomic signals in archaeal transcription, casting doubt on the general perception of rigid boundaries between coding sequences and regulatory elements.}
+      \field{journaltitle}{Mol Syst Biol}
+      \field{title}{Prevalence of transcription promoters within archaeal operons and coding sequences.}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{285}
+      \verb{doi}
+      \verb 10.1038/msb.2009.42
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/msb.2009.42
+      \endverb
+      \keyw{Archaeal,Bacterial,Computer Simulation,DNA-Binding Proteins,Gene Expression Profiling,Gene Regulatory Networks,Genes,Genetic,genetics,genetics/metabolism,genetics/physiology,Genome,Halobacterium salinarum,Models,Monte Carlo Method,Operon,Promoter Regions,Reproducibility of Results,RNA,Transcription,Transcription Factors}
+    \endentry
+    \entry{facciotti_general_2007}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=0456d96394bf12d8003e64e41a800dc3}{Facciotti}{F\bibinitperiod}{Marc\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5b5fffa4d52e631877d9f9dbc471e3d4}{Kaur}{K\bibinitperiod}{Amardeep}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=acc4e3185cb8394ce4229d23e7e661cc}{Vuthoori}{V\bibinitperiod}{Madhavi}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=371fcb8879619e36e49d026d0e692c12}{Bonneau}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bee2847e8605301154232e4adb9df65d}{Shannon}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d337de9a805fb7ba6ed650433bfa58bd}{Srivastava}{S\bibinitperiod}{Alok}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e6e0f317ca0da8f37fd319ef12bcaaf5}{Donohoe}{D\bibinitperiod}{Samuel\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3dd7a83797d0ada20ac3f62e7d39236e}{Hood}{H\bibinitperiod}{Leroy\bibnamedelima E.}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=0456d96394bf12d8003e64e41a800dc3}{Facciotti}{F\bibinitperiod}{Marc\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=9c218f6c52ab51bb74ca0c5e0d5009f4}{Reiss}{R\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=723fd56bd866afe992edd2e5d3affa59}{Pan}{P\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5b5fffa4d52e631877d9f9dbc471e3d4}{Kaur}{K\bibinitperiod}{Amardeep}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=acc4e3185cb8394ce4229d23e7e661cc}{Vuthoori}{V\bibinitperiod}{Madhavi}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=371fcb8879619e36e49d026d0e692c12}{Bonneau}{B\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bee2847e8605301154232e4adb9df65d}{Shannon}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d337de9a805fb7ba6ed650433bfa58bd}{Srivastava}{S\bibinitperiod}{Alok}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e6e0f317ca0da8f37fd319ef12bcaaf5}{Donohoe}{D\bibinitperiod}{Samuel\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=3dd7a83797d0ada20ac3f62e7d39236e}{Hood}{H\bibinitperiod}{Leroy\bibnamedelima E.}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=f02f1222f7543460ef4695a1979ad4d2}{Baliga}{B\bibinitperiod}{Nitin\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cbdac3c0c91aee23e60bd65ff5e7b867}
+      \strng{fullhash}{01e16d8caaf0876ef8c14bbf07fdde89}
+      \field{sortinit}{0}
+      \field{labeltitle}{General transcription factor specified global gene regulation in archaea}
+      \field{abstract}{Cells responding to dramatic environmental changes or undergoing a developmental switch typically change the expression of numerous genes. In bacteria, or factors regulate much of this process, whereas in eukaryotes, four RNA polymerases and a multiplicity of generalized transcription factors (GTFs) are required. Here, by using a systems approach, we provide experimental evidence (including protein-coimmunoprecipitation, ChIP-Chip, GTF perturbation and knockout, and measurement of transcriptional changes in these genetically perturbed strains) for how archaea likely accomplish similar large-scale transcriptional segregation and modulation of physiological functions. We are able to associate GTFs to nearly half of all putative promoters and show evidence for at least 7 of the possible 42 functional GTF pairs. This report represents a significant contribution toward closing the gap in our understanding of gene regulation by GTFs for all three domains of life and provides an example for how to use various experimental techniques to rapidly learn significant portions of a global gene regulatory network of organisms for which little has been previously known.}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{03}
+      \field{note}{WOS:000244972700069}
+      \field{number}{11}
+      \field{title}{General transcription factor specified global gene regulation in archaea}
+      \field{volume}{104}
+      \field{year}{2007}
+      \field{pages}{4630\bibrangedash 4635}
+      \verb{doi}
+      \verb 10.1073/pnas.0611663104
+      \endverb
+      \keyw{Animals,Archaea,Biological,biosynthesis,Chromatin Immunoprecipitation,Evolution,Gene Expression Regulation,General,Gene Regulatory Networks,Genetic,Genetic Techniques,Messenger,metabolism,Models,Molecular,Phylogeny,Plasmids,Promoter Regions,Protein Interaction Mapping,RNA,Transcription,Transcription Factors}
+    \endentry
+    \entry{higgins_binding_1990}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=68e61f01cf6cb96a4bba7ae2722da27c}{Higgins}{H\bibinitperiod}{C.\bibnamedelimi F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=23847a6be8efe90aa81b4e31c79d7773}{Hyde}{H\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=3d14b775ada345a0dca767e88b17cee9}{Mimmack}{M\bibinitperiod}{M.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d02fa56377e4da20b842bd3a7cdd416d}{Gileadi}{G\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4da2145faede57e54270c5345b33d4}{Gill}{G\bibinitperiod}{D.\bibnamedelimi R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=17ebf07534417d0cb7aaa06e3bb74c7f}{Gallagher}{G\bibinitperiod}{M.\bibnamedelimi P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=68e61f01cf6cb96a4bba7ae2722da27c}{Higgins}{H\bibinitperiod}{C.\bibnamedelimi F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=23847a6be8efe90aa81b4e31c79d7773}{Hyde}{H\bibinitperiod}{S.\bibnamedelimi C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=3d14b775ada345a0dca767e88b17cee9}{Mimmack}{M\bibinitperiod}{M.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d02fa56377e4da20b842bd3a7cdd416d}{Gileadi}{G\bibinitperiod}{U.}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=8f4da2145faede57e54270c5345b33d4}{Gill}{G\bibinitperiod}{D.\bibnamedelimi R.}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=17ebf07534417d0cb7aaa06e3bb74c7f}{Gallagher}{G\bibinitperiod}{M.\bibnamedelimi P.}{M\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{019ce40762ad94228acdc2e1144cd91e}
+      \strng{fullhash}{bb515fb3d12f4b07bdc1915366d1cf1e}
+      \field{sortinit}{0}
+      \field{labeltitle}{Binding protein-dependent transport systems}
+      \field{abstract}{Bacterial binding protein-dependent transport systems are the best characterized members of a superfamily of transporters which are structurally, functionally, and evolutionary related to each other. These transporters are not only found in bacteria but also in yeasts, plants, and animals including man, and include both import and export systems. Although any single system is relatively specific, different systems handle very different substrates which can be inorganic ions, amino acids, sugars, large polysaccharides, or even proteins. Some are of considerable medical importance, including Mdr, the protein responsible for multidrug resistance in human tumors, and the product of the cystic fibrosis locus. In this article we review the current state of knowledge on the structure and function of the protein components of these transporters, the mechanism by which transport is mediated, and the role of ATP in the transport process.}
+      \field{issn}{0145-479X, 1573-6881}
+      \field{journaltitle}{Journal of Bioenergetics and Biomembranes}
+      \field{month}{08}
+      \field{number}{4}
+      \field{title}{Binding protein-dependent transport systems}
+      \field{urlday}{07}
+      \field{urlmonth}{05}
+      \field{urlyear}{2014}
+      \field{volume}{22}
+      \field{year}{1990}
+      \field{pages}{571\bibrangedash 592}
+      \verb{doi}
+      \verb 10.1007/BF00762962
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/article/10.1007/BF00762962
+      \endverb
+      \keyw{Animal Anatomy / Morphology / Histology,Animal Biochemistry,ATP,binding protein,Biochemistry,Bioorganic Chemistry,cystic fibrosis,export,General,import,membrane protein,multidrug resistance,Organic Chemistry,periplasm,P-glycoprotein,transport}
+    \endentry
+    \entry{letoffe_housekeeping_2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8fc5c18b200fcb38756e9410dbd86cda}{Letoffe}{L\bibinitperiod}{Sylvie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b6d75265f4165c8173653640d0a91f3}{Delepelaire}{D\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=78c7b18ce0fadcde8028812c6733ecbf}{Wandersman}{W\bibinitperiod}{CÃ©cile}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8fc5c18b200fcb38756e9410dbd86cda}{Letoffe}{L\bibinitperiod}{Sylvie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5b6d75265f4165c8173653640d0a91f3}{Delepelaire}{D\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=78c7b18ce0fadcde8028812c6733ecbf}{Wandersman}{W\bibinitperiod}{CÃ©cile}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{2f95eb57930484f0c5c123afd746bf8e}
+      \strng{fullhash}{af10ad7a9a95f0da8a38c0dad51ca4fe}
+      \field{sortinit}{0}
+      \field{labeltitle}{The housekeeping dipeptide permease is the {Escherichia} coli heme transporter and functions with two optional peptide binding proteins}
+      \field{abstract}{Heme, a major iron source, is transported through the outer membrane of Gram-negative bacteria by specific heme/hemoprotein receptors and through the inner membrane by heme-specific, periplasmic, binding protein-dependent, ATP-binding cassette permeases. Escherichia coli K12 does not use exogenous heme, and no heme uptake genes have been identified. Nevertheless, a recombinant E. coli strain expressing just one foreign heme outer membrane receptor can use exogenous heme as an iron source. This result suggests either that heme might be able to cross the cytoplasmic membrane in the absence of specific carrier or that there is a functional inner membrane heme transporter. Here, we show that to use heme iron E. coli requires the dipeptide inner membrane ATP-binding cassette transporter (DppBCDF) and either of two periplasmic binding proteins: MppA, the L-alanyl-gamma-D-glutamyl-meso-diaminopimelate binding protein, or DppA, the dipeptide binding protein. Thus, wild-type E. coli has a peptide/heme permease despite being unable to use exogenous heme. DppA, which shares sequence similarity with the Haemophilus influenzae heme-binding protein HbpA, and MppA are functional heme-binding proteins. Peptides compete with heme for binding both "in vitro" and "in vivo."}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{month}{08}
+      \field{number}{34}
+      \field{title}{The housekeeping dipeptide permease is the {Escherichia} coli heme transporter and functions with two optional peptide binding proteins}
+      \field{volume}{103}
+      \field{year}{2006}
+      \field{pages}{12891\bibrangedash 12896}
+      \verb{doi}
+      \verb 10.1073/pnas.0605440103
+      \endverb
+      \keyw{Aminolevulinic Acid,Bacterial Proteins,Biological Transport,DNA Transposable Elements,Escherichia coli,Escherichia coli Proteins,Heme,Iron,Membrane Transport Proteins,Mutation,Peptides,Protein Binding}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
