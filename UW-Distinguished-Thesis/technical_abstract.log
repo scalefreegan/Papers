@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.19)  3 JUN 2015 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.19)  5 JUN 2015 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1255,55 +1255,50 @@ Overfull \hbox (6.78159pt too wide) in paragraph at lines 119--120
 et-works from high-throughput ex-per-i-men-tal data, (3) a de-tailed overview
  []
 
-LaTeX Font Info:    Font shape `T1/RobotoCondensed-LF/l/n' will be
-(Font)              scaled to size 7.0pt on input line 121.
-LaTeX Font Info:    Font shape `T1/RobotoCondensed-LF/l/n' will be
-(Font)              scaled to size 8.0pt on input line 121.
-LaTeX Font Info:    Font shape `T1/RobotoCondensed-LF/l/n' will be
-(Font)              scaled to size 6.0pt on input line 121.
-
-Overfull \hbox (3.34644pt too wide) in paragraph at lines 121--122
-\T1/RobotoCondensed-LF/l/n/10 We demon-strated how these net-works re-fine our 
-un-der-stand-ing of mod-u-lar gene co-regulatory or-ga-ni-za-tion in prokary-
- []
-
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
-
-
-Package xcolor Warning: Incompatible color definition on input line 150.
 
 
 Package xcolor Warning: Incompatible color definition on input line 155.
 
+
+Package xcolor Warning: Incompatible color definition on input line 160.
+
 File: bc-info.mps Graphic file (type mps)
 [MP to PDF] (/usr/local/texlive/2014/texmf-dist/tex/latex/bclogo/bc-info.mps)
-[6] [7] [8] [9] [10]
+[6] [7] [8] [9]
+Overfull \hbox (20.64542pt too wide) in paragraph at lines 234--235
+\T1/RobotoCondensed-LF/l/n/10 al-go-rithms can be ap-plied gen-er-ally to other
+ bi-o-log-i-cal mod-els. A com-pre-hen-sive web re-source ([][]egrin2.systemsbi
+ology.net[][])
+ []
+
+[10]
 LaTeX Font Info:    Font shape `T1/RobotoCondensed-LF/l/sc' will be
-(Font)              scaled to size 10.0pt on input line 236.
+(Font)              scaled to size 10.0pt on input line 243.
  [11] [12]
 <figures/cell_env_signal_external.pdf, id=195, 430.27449pt x 396.14699pt>
 File: figures/cell_env_signal_external.pdf Graphic file (type pdf)
 
 <use figures/cell_env_signal_external.pdf>
 Package pdftex.def Info: figures/cell_env_signal_external.pdf used on input lin
-e 244.
+e 251.
 (pdftex.def)             Requested size: 258.00539pt x 237.551pt.
 
 <figures/cell_env_internall.pdf, id=196, 479.7925pt x 280.04625pt>
 File: figures/cell_env_internall.pdf Graphic file (type pdf)
 
 <use figures/cell_env_internall.pdf>
-Package pdftex.def Info: figures/cell_env_internall.pdf used on input line 251.
+Package pdftex.def Info: figures/cell_env_internall.pdf used on input line 258.
 
 (pdftex.def)             Requested size: 258.00539pt x 150.59456pt.
 
 <figures/pssm.pdf, id=197, 479.7925pt x 159.09438pt>
 File: figures/pssm.pdf Graphic file (type pdf)
  <use figures/pssm.pdf>
-Package pdftex.def Info: figures/pssm.pdf used on input line 258.
+Package pdftex.def Info: figures/pssm.pdf used on input line 265.
 (pdftex.def)             Requested size: 387.00153pt x 128.3268pt.
 
 
@@ -1312,7 +1307,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <figures/corem.pdf, id=198, 336.66678pt x 277.39034pt>
 File: figures/corem.pdf Graphic file (type pdf)
  <use figures/corem.pdf>
-Package pdftex.def Info: figures/corem.pdf used on input line 265.
+Package pdftex.def Info: figures/corem.pdf used on input line 272.
 (pdftex.def)             Requested size: 258.00539pt x 212.58385pt.
 
 
@@ -1322,7 +1317,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/bicluster.pdf Graphic file (type pdf)
 
 <use figures/bicluster.pdf>
-Package pdftex.def Info: figures/bicluster.pdf used on input line 272.
+Package pdftex.def Info: figures/bicluster.pdf used on input line 279.
 (pdftex.def)             Requested size: 387.00153pt x 310.66212pt.
 
 
@@ -1332,7 +1327,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/egrin2_fig1.pdf Graphic file (type pdf)
 
 <use figures/egrin2_fig1.pdf>
-Package pdftex.def Info: figures/egrin2_fig1.pdf used on input line 279.
+Package pdftex.def Info: figures/egrin2_fig1.pdf used on input line 286.
 (pdftex.def)             Requested size: 387.00153pt x 179.94342pt.
 
 
@@ -1342,7 +1337,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/egrin2_AUPR.pdf Graphic file (type pdf)
 
 <use figures/egrin2_AUPR.pdf>
-Package pdftex.def Info: figures/egrin2_AUPR.pdf used on input line 286.
+Package pdftex.def Info: figures/egrin2_AUPR.pdf used on input line 293.
 (pdftex.def)             Requested size: 322.50346pt x 254.0013pt.
 
 
@@ -1352,7 +1347,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/egrin2_dpp_1.pdf Graphic file (type pdf)
 
 <use figures/egrin2_dpp_1.pdf>
-Package pdftex.def Info: figures/egrin2_dpp_1.pdf used on input line 293.
+Package pdftex.def Info: figures/egrin2_dpp_1.pdf used on input line 300.
 (pdftex.def)             Requested size: 344.005pt x 288.91252pt.
 
 
@@ -1362,7 +1357,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: figures/egrin2_dpp_2.pdf Graphic file (type pdf)
 
 <use figures/egrin2_dpp_2.pdf>
-Package pdftex.def Info: figures/egrin2_dpp_2.pdf used on input line 300.
+Package pdftex.def Info: figures/egrin2_dpp_2.pdf used on input line 307.
 (pdftex.def)             Requested size: 279.50037pt x 234.73892pt.
 
 
@@ -1373,7 +1368,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 pdfTeX warning: pdflatex (file ./figures/cell_env_internall.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
  [14 <./figures/pssm.pdf> <./figures/corem.pdf>] [15 <./figures/bicluster.pdf> 
 <./figures/egrin2_fig1.pdf>] [16 <./figures/egrin2_AUPR.pdf> <./figures/egrin2_
 dpp_1.pdf
@@ -1381,10 +1376,10 @@ dpp_1.pdf
 pdfTeX warning: pdflatex (file ./figures/egrin2_dpp_1.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
 >] [17 <./figures/egrin2_dpp_2.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
  (./technical_abstract.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
 Package rerunfilecheck Info: File `technical_abstract.out' has not changed.
 (rerunfilecheck)             Checksum: DEF43CF161986E7F4ED421969A4F09C0;788.
 
@@ -1396,33 +1391,30 @@ Package logreq Info: Writing requests to 'technical_abstract.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24427 strings out of 493117
- 457164 string characters out of 6135433
+ 24420 strings out of 493117
+ 456973 string characters out of 6135433
  850941 words of memory out of 5000000
- 27365 multiletter control sequences out of 15000+600000
- 90376 words of font info for 64 fonts, out of 8000000 for 9000
+ 27362 multiletter control sequences out of 15000+600000
+ 74950 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,80p,2183b,1457s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
-st, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ausksf.enc}{/us
-r/local/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ownhgb.enc}{/usr/lo
-cal/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ap6qhk.enc}</usr/local/
-texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoCondensed-Bold.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoCondensed-Itali
-c.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoConde
-nsed-Light.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/Ro
-botoCondensed-LightItalic.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/g
-oogle/roboto/RobotoCondensed-Regular.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on technical_abstract.pdf (17 pages, 8041002 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ausksf.enc}{/
+usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ownhgb.enc}{/usr/
+local/texlive/2014/texmf-dist/fonts/enc/dvips/roboto/rbto_ap6qhk.enc}</usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoCondensed-Bold.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoCondensed-Ita
+lic.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/RobotoCon
+densed-Light.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/google/roboto/
+RobotoCondensed-LightItalic.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/google/roboto/RobotoCondensed-Regular.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on technical_abstract.pdf (17 pages, 8041349 bytes).
 PDF statistics:
  2099 PDF objects out of 2487 (max. 8388607)
  714 compressed objects within 8 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 62 named destinations out of 1000 (max. 500000)
  218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
